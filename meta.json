@@ -1,4 +1,6 @@
-{"name":"Mercy pool",
-"ticker":"MERCY",
-"description":"Help Charities in Thialand and earn rewards! Orphanages, Homeless and etcetera charities!",
-}
+{
+  "name": "Mercy Pool",
+  "description": "Help Charities in Thialand and earn rewards! Orphanages, Homeless and etcetera charities",
+  "ticker": "MERCY",
+  "homepage": "https://adapools.org/pool/a4ac19aa597233380e7cfc36fb0172a1e7de311343c0c22b86afa4d7"
+  }
